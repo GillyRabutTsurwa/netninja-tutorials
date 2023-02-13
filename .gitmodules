@@ -1,0 +1,30 @@
+[submodule "vue-with-netninja"]
+	path = vue-with-netninja
+	url = git@github.com:GillyRabutTsurwa/vue-with-netninja.git
+[submodule "cssgrid-with-netninja"]
+	path = cssgrid-with-netninja
+	url = git@github.com:GillyRabutTsurwa/cssgrid-with-netninja.git
+[submodule "typescript-with-netninja"]
+	path = typescript-with-netninja
+	url = git@github.com:GillyRabutTsurwa/typescript-with-netninja.git
+[submodule "svelte-with-netninja"]
+	path = svelte-with-netninja
+	url = git@github.com:GillyRabutTsurwa/svelte-with-netninja.git
+[submodule "vuex-with-netninja"]
+	path = vuex-with-netninja
+	url = git@github.com:GillyRabutTsurwa/vuex-with-netninja.git
+[submodule "booklist-app-netninja"]
+	path = booklist-app-netninja
+	url = git@github.com:GillyRabutTsurwa/booklist-app-netninja.git
+[submodule "vue-n-typescript-with-netninja"]
+	path = vue-n-typescript-with-netninja
+	url = git@github.com:GillyRabutTsurwa/vue-n-typescript-with-netninja.git
+[submodule "sveltekit-with-netninja"]
+	path = sveltekit-with-netninja
+	url = git@github.com:GillyRabutTsurwa/sveltekit-with-netninja.git
+[submodule "tailwind-with-netninja"]
+	path = tailwind-with-netninja
+	url = git@github.com:GillyRabutTsurwa/tailwind-with-netninja.git
+[submodule "node-with-netninja"]
+	path = node-with-netninja
+	url = git@github.com:GillyRabutTsurwa/node-with-netninja.git
