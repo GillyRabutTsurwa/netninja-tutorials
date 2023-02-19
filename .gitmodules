@@ -28,3 +28,6 @@
 [submodule "node-with-netninja"]
 	path = node-with-netninja
 	url = git@github.com:GillyRabutTsurwa/node-with-netninja.git
+[submodule "mongodb-with-netninja"]
+	path = mongodb-with-netninja
+	url = git@github.com:GillyRabutTsurwa/mongodb-with-netninja.git
